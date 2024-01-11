@@ -1,8 +1,6 @@
 ## Introduce
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonhahyun&show_icons=true&theme=radical)
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yhh9944)](https://solved.ac/yhh9944/)
 
 ## Profile
