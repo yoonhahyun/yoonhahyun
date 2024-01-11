@@ -5,7 +5,7 @@
 
 ## Profile
 
-- major : material science and engineering
+- Major : Material science and engineering
 - SSAFY 11th (ing~)
 
 ## Studying
